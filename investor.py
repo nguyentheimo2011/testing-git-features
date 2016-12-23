@@ -12,3 +12,5 @@ Continue bro!
 bro is crazzzy!
 
 I'm not!
+
+If bro not then who is?
